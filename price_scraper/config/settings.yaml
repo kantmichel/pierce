@@ -1,0 +1,52 @@
+application:
+  name: "Moto Price Compare"
+  version: "0.1.0"
+  
+crawling:
+  user_agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+  timeout_seconds: 30
+  max_retries: 3
+  retry_delay_seconds: 5
+  max_concurrent_requests: 5
+  respect_robots_txt: true
+  
+currency:
+  base_currency: "EUR"
+  target_currencies: ["TRY", "GBP"]
+  api_provider: "exchangerate-api"
+  cache_duration_hours: 24
+  update_frequency_hours: 6
+  
+comparison:
+  price_threshold_percent: 5  # Minimum price difference to consider significant
+  match_confidence_threshold: 0.8  # Product matching confidence score
+  currency_conversion_buffer: 0.02  # 2% buffer for exchange rate fluctuations
+  
+matching:
+  algorithms:
+    - "exact_match"
+    - "fuzzy_match" 
+    - "brand_model_match"
+  fuzzy_match_threshold: 0.85
+  brand_weight: 0.4
+  model_weight: 0.4
+  description_weight: 0.2
+  
+output:
+  formats: ["json", "csv", "html"]
+  include_urls: true
+  include_timestamps: true
+  sort_by: "price_difference"
+  max_results: 100
+  
+database:
+  backup_enabled: true
+  backup_frequency_hours: 24
+  cleanup_old_data_days: 30
+  vacuum_frequency_days: 7
+  
+logging:
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  date_format: "%Y-%m-%d %H:%M:%S"
+  max_file_size_mb: 10
+  backup_count: 5

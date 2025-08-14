@@ -1,0 +1,76 @@
+sites:
+  eu:
+    24mx:
+      name: "24MX"
+      base_url: "https://www.24mx.co.uk"
+      country: "UK"
+      currency: "GBP"
+      language: "en"
+      selectors:
+        product_name: ".product-name, .product-title, h1"
+        price: ".price, .product-price, [data-price]"
+        availability: ".availability, .stock-status"
+        brand: ".brand, .product-brand"
+        model: ".model, .product-model"
+        description: ".description, .product-description"
+      rate_limit:
+        requests_per_second: 2
+        delay_between_requests: 0.5
+        
+    xlmoto:
+      name: "XLMoto"
+      base_url: "https://www.xlmoto.co.uk"
+      country: "UK"
+      currency: "GBP"
+      language: "en"
+      selectors:
+        product_name: ".product-name, .product-title, h1"
+        price: ".price, .product-price, [data-price]"
+        availability: ".availability, .stock-status"
+        brand: ".brand, .product-brand"
+        model: ".model, .product-model"
+        description: ".description, .product-description"
+      rate_limit:
+        requests_per_second: 2
+        delay_between_requests: 0.5
+
+  tr:
+    motomax:
+      name: "Motomax"
+      base_url: "https://www.motomax.com.tr"
+      country: "TR"
+      currency: "TRY"
+      language: "tr"
+      search_url: "https://www.motomax.com.tr/arama"
+      search_param: "q"
+      selectors:
+        search_results: ".product-item, .search-result"
+        product_link: "a[href*='/urun/']"
+        product_name: ".product-name, .product-title, h1"
+        price: ".price, .product-price, [data-price]"
+        availability: ".availability, .stock-status"
+        brand: ".brand, .product-brand"
+        model: ".model, .product-model"
+      rate_limit:
+        requests_per_second: 1
+        delay_between_requests: 1.0
+        
+    mototas:
+      name: "Mototas"
+      base_url: "https://www.mototas.com.tr"
+      country: "TR"
+      currency: "TRY"
+      language: "tr"
+      search_url: "https://www.mototas.com.tr/arama"
+      search_param: "q"
+      selectors:
+        search_results: ".product-item, .search-result"
+        product_link: "a[href*='/urun/']"
+        product_name: ".product-name, .product-title, h1"
+        price: ".price, .product-price, [data-price]"
+        availability: ".availability, .stock-status"
+        brand: ".brand, .product-brand"
+        model: ".model, .product-model"
+      rate_limit:
+        requests_per_second: 1
+        delay_between_requests: 1.0
