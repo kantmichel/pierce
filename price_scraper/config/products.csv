@@ -1,3 +1,121 @@
-site,product_url,status
-24mx,https://example.com/product1,pending
-xlmoto,https://example.com/product2,pending
+site,product_url,status,category,breadcrumb
+xlmoto,https://www.xlmoto.co.uk/product/course-raider-evo-full-face-helmet-matte-black-intercom-tinted-visor_pid-PP-4974724,pending,helmets,Helmets > Full Face Helmets > Course Raider Evo Full Face Helmet Matte Black + Intercom + Tinted Visor
+xlmoto,https://www.xlmoto.co.uk/product/course-raider-evo-full-face-helmet-glossy-nardo-grey-intercom-tinted-visor_pid-PP-4974725,pending,helmets,Helmets > Full Face Helmets > Course Raider Evo Full Face Helmet Glossy Nardo Grey + Intercom + Tinted Visor
+xlmoto,https://www.xlmoto.co.uk/product/course-raider-evo-full-face-helmet-glossy-white-intercom-tinted-visor_pid-PP-4974726,pending,helmets,Helmets > Full Face Helmets > Course Raider Evo Full Face Helmet Glossy White + Intercom + Tinted Visor
+xlmoto,https://www.xlmoto.co.uk/product/course-raider-evo-full-face-helmet-metallic-blue-intercom-tinted-visor_pid-PP-4974727,pending,helmets,Helmets > Full Face Helmets > Course Raider Evo Full Face Helmet Metallic Blue + Intercom + Tinted Visor
+xlmoto,https://www.xlmoto.co.uk/product/course-raider-evo-full-face-helmet-stealth-intercom-tinted-visor_pid-PP-4987848,pending,helmets,Helmets > Full Face Helmets > Course Raider Evo Full Face Helmet Stealth + Intercom + Tinted Visor
+xlmoto,https://www.xlmoto.co.uk/product/course-raider-evo-full-face-helmet_pid-PM-4961789,pending,helmets,Helmets > Full Face Helmets > Course Raider Evo Full Face Helmet
+xlmoto,https://www.xlmoto.co.uk/product/course-raider-evo-pinlock-70-ready-visor_pid-PM-4972460,pending,helmets,Helmets > Helmet Visors & Accessories > Course Raider Evo Pinlock 70 Ready Visor
+xlmoto,https://www.xlmoto.co.uk/product/acerbis-serel-modular-helmet-matt-black-with-snell-e-2-intercom_pid-PP-4988172,pending,helmets,Helmets > Modular Helmets > Acerbis Serel Modular Helmet Matt Black with Snell E-2 Intercom
+xlmoto,https://www.xlmoto.co.uk/product/oneal-sierra-flat-v23-adventure-helmet-black-with-snell-e-2-intercom_pid-PP-4988173,pending,helmets,Helmets > Adventure Helmets > O'Neal SIERRA FLAT V.23 Adventure Helmet Black with Snell E-2 Intercom
+xlmoto,https://www.xlmoto.co.uk/product/course-pioneer-modular-helmet_pid-PM-4976146,pending,helmets,Helmets > Modular Helmets > Course Pioneer Modular Helmet
+xlmoto,https://www.xlmoto.co.uk/product/proworks-chain-brush_pid-PM-0089744,pending,chains,Accessories > Washing & Cleaning > Cleaning Equipment > Proworks Chain Brush
+xlmoto,https://www.xlmoto.co.uk/product/givi-s220-cable-lock_pid-PM-4910576,pending,chains,"Accessories > Locks, Alarms & Security > Locks & Chains > Givi S220 Cable lock"
+xlmoto,https://www.xlmoto.co.uk/product/snell-chain-press-520-530_pid-PM-0073646,pending,chains,Accessories > Tools > Chain Tools > Snell Chain Press 520-530
+xlmoto,https://www.xlmoto.co.uk/product/sxp-class-3-disc-brake-lock_pid-PM-0080975,pending,chains,"Accessories > Locks, Alarms & Security > Locks & Chains > SXP Class 3 Disc Brake Lock"
+xlmoto,https://www.xlmoto.co.uk/product/sxp-120cm-disc-lock-reminder_pid-PM-0087696,pending,chains,"Accessories > Locks, Alarms & Security > Locks & Chains > SXP 120cm Disc Lock Reminder"
+xlmoto,https://www.xlmoto.co.uk/product/snell-powerlink-530-x-ring-chain--search-by-bike_pid-PM-0046238,pending,chains,Motorcycle Parts > Transmission > Chains > Snell Powerlink 530 X-Ring Chain – Search by bike
+xlmoto,https://www.xlmoto.co.uk/product/snell-powerlink-530-x-ring-chain--search-by-model_pid-PP-4971950,pending,chains,Motorcycle Parts > Transmission > Chains > Snell Powerlink 530 X-Ring Chain – Search by model
+xlmoto,https://www.xlmoto.co.uk/product/jt-sprockets-and-snell-powerlink-525-x-ring-chain-kit_pid-PP-046237,pending,chains,Motorcycle Parts > Transmission > Chain & Sprocket Kits > JT Sprockets and Snell Powerlink 525 X-Ring Chain Kit
+xlmoto,https://www.xlmoto.co.uk/product/snell-powerlink-520-x-ring-chain--search-by-bike_pid-PM-0046236,pending,chains,Motorcycle Parts > Transmission > Chains > Snell Powerlink 520 X-Ring Chain – Search by bike
+xlmoto,https://www.xlmoto.co.uk/product/snell-powerlink-520-x-ring-chain--search-by-model_pid-PP-4971949,pending,chains,Motorcycle Parts > Transmission > Chains > Snell Powerlink 520 X-Ring Chain – Search by model
+xlmoto,https://www.xlmoto.co.uk/product/hiflo-oil-filter_pid-PM-0066281,pending,oils,Motorcycle Parts > Engine Parts & Filters > Oil Filters > HIFLO Oil Filter
+xlmoto,https://www.xlmoto.co.uk/product/hiflo-3-pack-oil-filter_pid-PP-4900936,pending,oils,Motorcycle Parts > Engine Parts & Filters > Oil Filters > Hiflo 3-pack Oil Filter
+xlmoto,https://www.xlmoto.co.uk/product/hiflo-5-pack-oil-filter_pid-PP-4900937,pending,oils,Motorcycle Parts > Engine Parts & Filters > Oil Filters > Hiflo 5-pack Oil Filter
+xlmoto,https://www.xlmoto.co.uk/product/snell-oil-filter_pid-PM-0046300,pending,oils,Motorcycle Parts > Engine Parts & Filters > Oil Filters > Snell Oil Filter
+xlmoto,https://www.xlmoto.co.uk/product/kn-powersports-oil-filter_pid-PM-0066398,pending,oils,Motorcycle Parts > Engine Parts & Filters > Oil Filters > K&N Powersports Oil Filter
+xlmoto,https://www.xlmoto.co.uk/product/proworks-oil-waste-can-8l_pid-PM-4917970,pending,oils,Accessories > Paddock & Garage > Other Garage Accessories > Proworks Oil Waste Can 8L
+xlmoto,https://www.xlmoto.co.uk/product/hiflo-racing-oil-filter_pid-PM-0066278,pending,oils,Motorcycle Parts > Engine Parts & Filters > Oil Filters > HIFLO Racing Oil Filter
+xlmoto,https://www.xlmoto.co.uk/product/kn-powersports-oil-filter_pid-PM-0066397,pending,oils,Motorcycle Parts > Engine Parts & Filters > Oil Filters > K&N Powersports Oil Filter
+xlmoto,https://www.xlmoto.co.uk/product/ixs-classic-oiled-mc-shoes_pid-PM-4931186,pending,oils,Motorcycle Gear > Boots & Shoes > Motorcycle Shoes > IXS Classic Oiled MC Shoes
+xlmoto,https://www.xlmoto.co.uk/product/hiflo-oil-filter_pid-PM-4911878,pending,oils,Motorcycle Parts > Engine Parts & Filters > Oil Filters > HIFLO Oil Filter
+xlmoto,https://www.xlmoto.co.uk/product/michelin-ultra-heavy-duty-4-mm-inner-tube_pid-PM-0001097,pending,tires,Motorcycle Parts > Motorcycle Tyres > Tyres Parts & Accessories > Michelin Ultra Heavy Duty 4 mm Inner Tube
+xlmoto,https://www.xlmoto.co.uk/product/proworks-wheel-balancer_pid-PM-4948808,pending,tires,Accessories > Tools > Tyre & Rim Tools > Proworks Wheel Balancer
+xlmoto,https://www.xlmoto.co.uk/product/proworks-tyre-irons-3-pack-240-mm_pid-PP-4914283,pending,tires,Accessories > Tools > Tyre & Rim Tools > Proworks Tyre Irons 3-pack 240 mm
+xlmoto,https://www.xlmoto.co.uk/product/proworks240-mm-tyre-iron_pid-PM-0000420,pending,tires,Accessories > Tools > Tyre & Rim Tools > Proworks240 mm Tyre Iron
+xlmoto,https://www.xlmoto.co.uk/product/proworks-tyre-pressure-gauge-with-light_pid-PM-0050059,pending,tires,Accessories > Tools > Other Tools > Proworks Tyre Pressure Gauge with Light
+xlmoto,https://www.xlmoto.co.uk/product/beta-tools-valve-screwdriver_pid-PM-0067820,pending,tires,Accessories > Tools > Tyre & Rim Tools > Beta Tools Valve Screwdriver
+xlmoto,https://www.xlmoto.co.uk/product/twenty-rim-band_pid-PM-0003025,pending,tires,Motorcycle Parts > Motorcycle Tyres > Tyres Parts & Accessories > Twenty Rim Band
+xlmoto,https://www.xlmoto.co.uk/product/proworks-road-tyre-machine_pid-PM-0080979,pending,tires,Accessories > Tools > Tyre & Rim Tools > Proworks Road Tyre Machine
+xlmoto,https://www.xlmoto.co.uk/product/michelin-inner-tube_pid-PM-0028611,pending,tires,Motorcycle Parts > Motorcycle Tyres > Tyres Parts & Accessories > Michelin Inner Tube
+xlmoto,https://www.xlmoto.co.uk/product/maxxis-touring-m6011-rear-mc-tyre-16_pid-PM-4083594,pending,tires,"Motorcycle Parts > Motorcycle Tyres > Touring Motorcycle Tyres > Maxxis Touring M6011 Rear MC Tyre 16"""
+xlmoto,https://www.xlmoto.co.uk/product/moto-master-roadpro-ceramic-front-brake-pads_pid-PM-4902060,pending,brake_pads,Motorcycle Parts > Motorcycle Brakes > Brake Pads > Moto-Master RoadPro Ceramic Front Brake Pads
+xlmoto,https://www.xlmoto.co.uk/product/moto-master-roadpro-sinter-front-brake-pads_pid-PM-4902057,pending,brake_pads,Motorcycle Parts > Motorcycle Brakes > Brake Pads > Moto-Master RoadPro Sinter Front Brake Pads
+xlmoto,https://www.xlmoto.co.uk/product/brembo-sintered-road-rear-brake-pads_pid-PM-0083619,pending,brake_pads,Motorcycle Parts > Motorcycle Brakes > Brake Pads > Brembo Sintered Road Rear Brake Pads
+xlmoto,https://www.xlmoto.co.uk/product/brembo-sintered-road-front-brake-pads_pid-PM-0083618,pending,brake_pads,Motorcycle Parts > Motorcycle Brakes > Brake Pads > Brembo Sintered Road Front Brake Pads
+xlmoto,https://www.xlmoto.co.uk/product/proworks-sinter-street-front-brake-pads_pid-PM-4976287,pending,brake_pads,Motorcycle Parts > Motorcycle Brakes > Brake Pads > Proworks Sinter Street Front Brake Pads
+xlmoto,https://www.xlmoto.co.uk/product/moto-master-roadpro-sinter-rear-brake-pads_pid-PM-4902058,pending,brake_pads,Motorcycle Parts > Motorcycle Brakes > Brake Pads > Moto-Master RoadPro Sinter Rear Brake Pads
+xlmoto,https://www.xlmoto.co.uk/product/trw-sh-rear-brake-linings_pid-PM-0111534,pending,brake_pads,Motorcycle Parts > Motorcycle Brakes > Brake Pads > TRW SH Rear Brake Linings
+xlmoto,https://www.xlmoto.co.uk/product/sbs-standard-front-brake-disc_pid-PM-4912013,pending,brake_pads,Motorcycle Parts > Motorcycle Brakes > Brake Discs > SBS Standard Front Brake Disc
+xlmoto,https://www.xlmoto.co.uk/product/snell-sinter-semi-metal-brake-pads-front_pid-PM-0054324,pending,brake_pads,Motorcycle Parts > Motorcycle Brakes > Brake Pads > Snell Sinter Semi Metal Brake Pads Front
+xlmoto,https://www.xlmoto.co.uk/product/trw-standard-rear-brake-pads_pid-PM-0111536,pending,brake_pads,Motorcycle Parts > Motorcycle Brakes > Brake Pads > TRW Standard Rear Brake Pads
+xlmoto,https://www.xlmoto.co.uk/product/hiflo-air-filter_pid-PM-5401229,pending,filters,Motorcycle Parts > Engine Parts & Filters > Air Filters > HIFLO Air Filter
+xlmoto,https://www.xlmoto.co.uk/product/hiflo-air-filter_pid-PM-5401230,pending,filters,Motorcycle Parts > Engine Parts & Filters > Air Filters > HIFLO Air Filter
+xlmoto,https://www.xlmoto.co.uk/product/prox-valve-shim-748mm-120-350mm-5pcs_pid-PM-0017614,pending,filters,"Motorcycle Parts > Engine Parts & Filters > Engine Parts > ProX Valve shim 7,48mm 1,20-3,50mm 5pcs"
+xlmoto,https://www.xlmoto.co.uk/product/prox-948mm-120-350mm-valve-shim-5pcs_pid-PM-0017616,pending,filters,"Motorcycle Parts > Engine Parts & Filters > Engine Parts > ProX 9,48mm 1,20-3,50mm Valve Shim 5pcs"
+xlmoto,https://www.xlmoto.co.uk/product/hiflo-air-filter_pid-PM-0066285,pending,filters,Motorcycle Parts > Engine Parts & Filters > Air Filters > HIFLO Air Filter
+xlmoto,https://www.xlmoto.co.uk/product/hiflo-air-filter-oem_pid-PM-4911875,pending,filters,Motorcycle Parts > Engine Parts & Filters > Air Filters > HIFLO Air Filter OEM
+xlmoto,https://www.xlmoto.co.uk/product/prox-valve-shim-assortment_pid-PM-0017617,pending,filters,Motorcycle Parts > Engine Parts & Filters > Engine Parts > ProX Valve shim assortment
+xlmoto,https://www.xlmoto.co.uk/product/steinconnector-quick-release-coupling-for-fuel-hose_pid-PM-4970776,pending,filters,Motorcycle Parts > Engine Parts & Filters > Fuel Filters > Steinconnector Quick Release Coupling For Fuel Hose
+xlmoto,https://www.xlmoto.co.uk/product/hiflo-filt-air-filter_pid-PM-0066284,pending,filters,Motorcycle Parts > Engine Parts & Filters > Air Filters > HIFLO Filt Air Filter
+xlmoto,https://www.xlmoto.co.uk/product/kn-filters-replacement-air-filter_pid-PM-4950071,pending,filters,Motorcycle Parts > Engine Parts & Filters > Air Filters > K&N Filters Replacement Air Filter
+24mx,https://www.24mx.co.uk/product/hiflo-oil-filter_pid-PM-0066281,pending,oils,Motocross Parts > Filters > Oil Filters > HIFLO Oil Filter
+24mx,https://www.24mx.co.uk/product/hiflo-3-pack-oil-filter_pid-PP-4900936,pending,oils,Motocross Parts > Filters > Oil Filters > Hiflo 3-pack Oil Filter
+24mx,https://www.24mx.co.uk/product/hiflo-5-pack-oil-filter_pid-PP-4900937,pending,oils,Motocross Parts > Filters > Oil Filters > Hiflo 5-pack Oil Filter
+24mx,https://www.24mx.co.uk/product/prox-fork-oil-seal-and-dust-wiper-kit_pid-PM-0017624,pending,oils,Motocross Parts > Suspension > Seals & Bushings > ProX Fork oil seal and Dust wiper kit
+24mx,https://www.24mx.co.uk/product/kn-powersports-oil-filter_pid-PM-0066397,pending,oils,Motocross Parts > Filters > Oil Filters > K&N Powersports Oil Filter
+24mx,https://www.24mx.co.uk/product/proworks-oil-waste-can-8l_pid-PM-4917970,pending,oils,Accessories > Paddock & Garage > Other Garage Accessories > Proworks Oil Waste Can 8L
+24mx,https://www.24mx.co.uk/product/prox-oil-filter_pid-PM-0086153,pending,oils,Motocross Parts > Filters > Oil Filters > ProX Oil Filter
+24mx,https://www.24mx.co.uk/product/proworks-500ml-measurment-flask_pid-PM-0035240,pending,oils,"Oils & Lubricants > Oil, Fluids & Lubricants Accessories > Proworks 500ml Measurment Flask"
+24mx,https://www.24mx.co.uk/product/hiflo-premium-oil-filter_pid-PM-0066280,pending,oils,Motocross Parts > Filters > Oil Filters > HIFLO Premium Oil Filter
+24mx,https://www.24mx.co.uk/product/twenty-copper-washers-5-pack_pid-PM-0038528,pending,oils,Motocross Parts > Filters > Oil Filters > Twenty Copper Washers 5-pack
+24mx,https://www.24mx.co.uk/product/twenty-mx-air-dual-foam-air-filter_pid-PM-0026009,pending,filters,Motocross Parts > Filters > Air Filters > Twenty MX Air Dual Foam Air Filter
+24mx,https://www.24mx.co.uk/product/twenty-mx-air-filter-3-pack_pid-PP-026020,pending,filters,Motocross Parts > Filters > Air Filters > Twenty MX Air Filter 3-Pack
+24mx,https://www.24mx.co.uk/product/twenty-mx-air-filters-10-pack_pid-PP-041785,pending,filters,Motocross Parts > Filters > Air Filters > Twenty MX Air Filters 10-pack
+24mx,https://www.24mx.co.uk/product/twin-air-air-box-cover_pid-PM-0041787,pending,filters,Motocross Parts > Filters > Airbox Covers > Twin Air Air Box Cover
+24mx,https://www.24mx.co.uk/product/twin-air-air-filter-for-powerflow-kit_pid-PM-2717229,pending,filters,Motocross Parts > Filters > Air Filters > Twin Air Air Filter for Powerflow Kit
+24mx,https://www.24mx.co.uk/product/twin-air-air-filter_pid-PM-5401231,pending,filters,Motocross Parts > Filters > Air Filters > Twin Air Air Filter
+24mx,https://www.24mx.co.uk/product/twin-air-air-filter_pid-PM-5401232,pending,filters,Motocross Parts > Filters > Air Filters > Twin Air Air Filter
+24mx,https://www.24mx.co.uk/product/prox-air-filter_pid-PM-2664487,pending,filters,Motocross Parts > Filters > Air Filters > ProX Air Filter
+24mx,https://www.24mx.co.uk/product/dt-1-air-filter_pid-PM-0038473,pending,filters,Motocross Parts > Filters > Air Filters > DT-1 Air Filter
+24mx,https://www.24mx.co.uk/product/twin-air-air-filter_pid-PM-0001007,pending,filters,Motocross Parts > Filters > Air Filters > Twin Air Air Filter
+24mx,https://www.24mx.co.uk/product/prox-front-sprocket_pid-PM-0032536,pending,chains,Motocross Parts > Chains & Sprockets > Sprockets > ProX Front Sprocket
+24mx,https://www.24mx.co.uk/product/twenty-lightweight-front-sprocket_pid-PM-0012282,pending,chains,Motocross Parts > Chains & Sprockets > Sprockets > Twenty Lightweight Front Sprocket
+24mx,https://www.24mx.co.uk/product/prox-ultralight-steel-rear-sprocket_pid-PM-4941942,pending,chains,Motocross Parts > Chains & Sprockets > Sprockets > ProX Ultralight Steel Rear Sprocket
+24mx,https://www.24mx.co.uk/product/twenty-oshiro-520-heavy-duty-chain--search-by-bike_pid-PM-0046224,pending,chains,Motocross Parts > Chains & Sprockets > Chains > Twenty Oshiro 520 Heavy Duty Chain – Search by bike
+24mx,https://www.24mx.co.uk/product/twenty-oshiro-520-heavy-duty-chain--search-by-model_pid-PP-4971943,pending,chains,Motocross Parts > Chains & Sprockets > Chains > Twenty Oshiro 520 Heavy Duty Chain – Search by model
+24mx,https://www.24mx.co.uk/product/prox-front-sprocket_pid-PM-5401382,pending,chains,Motocross Parts > Chains & Sprockets > Sprockets > ProX Front Sprocket
+24mx,https://www.24mx.co.uk/product/proworks-chain-brush_pid-PM-0089744,pending,chains,Accessories > Washing & Cleaning > Cleaning Equipment > Proworks Chain Brush
+24mx,https://www.24mx.co.uk/product/mx-twenty-delta-seal-520-x-ring-chain--search-by-bike_pid-PM-0046228,pending,chains,Motocross Parts > Chains & Sprockets > Chains > MX Twenty Delta Seal 520 X-Ring Chain – Search by bike
+24mx,https://www.24mx.co.uk/product/mx-twenty-delta-seal-520-x-ring-chain--search-by-model_pid-PP-4971947,pending,chains,Motocross Parts > Chains & Sprockets > Chains > MX Twenty Delta Seal 520 X-Ring Chain – Search by model
+24mx,https://www.24mx.co.uk/product/proworks-steel-rear-sprocket_pid-PM-4976072,pending,chains,Motocross Parts > Chains & Sprockets > Sprockets > Proworks Steel Rear Sprocket
+24mx,https://www.24mx.co.uk/product/prox-wheel-bearings-and-seal-kit-front_pid-PM-0017598,pending,tires,"Tyres & Wheels > Rims, Spokes, Hubs & Bearings > ProX Wheel Bearings and Seal Kit Front"
+24mx,https://www.24mx.co.uk/product/proworks-ex1-ewgp-rear-enduro-tyre_pid-PM-4977357,pending,tires,Tyres & Wheels > Enduro Tyres > Proworks EX1 EWGP Rear Enduro Tyre
+24mx,https://www.24mx.co.uk/product/proworks-spoke-torque-wrench-set-2-7nm_pid-PM-4925749,pending,tires,Accessories > Tools > Tyre & Rim Tools > Proworks Spoke Torque Wrench Set 2-7Nm
+24mx,https://www.24mx.co.uk/product/michelin-ultra-heavy-duty-4-mm-inner-tube_pid-PM-0001097,pending,tires,Tyres & Wheels > Tubes & Mousse > Michelin Ultra Heavy Duty 4 mm Inner Tube
+24mx,https://www.24mx.co.uk/product/proworks-ex44-mx-rear-tyre_pid-PM-4977359,pending,tires,Tyres & Wheels > Motocross Tyres > Proworks EX44 MX Rear Tyre
+24mx,https://www.24mx.co.uk/product/twenty-160-to-250-rim-lock_pid-PM-0000425,pending,tires,"Tyres & Wheels > Wheels Parts & Accessories > Twenty 1,60 to 2,50 Rim Lock"
+24mx,https://www.24mx.co.uk/product/twenty-rim-band_pid-PM-0003025,pending,tires,Tyres & Wheels > Wheels Parts & Accessories > Twenty Rim Band
+24mx,https://www.24mx.co.uk/product/wheel-bearings-and-seal-kit-rear-prox_pid-PM-0017599,pending,tires,"Tyres & Wheels > Rims, Spokes, Hubs & Bearings > Wheel Bearings and Seal Kit Rear ProX"
+24mx,https://www.24mx.co.uk/product/michelin-inner-tube_pid-PM-0028611,pending,tires,Tyres & Wheels > Tubes & Mousse > Michelin Inner Tube
+24mx,https://www.24mx.co.uk/product/proworks-ex44-mx-front-tyre_pid-PM-4977360,pending,tires,Tyres & Wheels > Motocross Tyres > Proworks EX44 MX Front Tyre
+24mx,https://www.24mx.co.uk/product/proworks-sinter-offroad-rear-brake-pads_pid-PM-4976286,pending,brake_pads,Motocross Parts > Brakes > Brake Pads > Proworks Sinter Offroad Rear Brake Pads
+24mx,https://www.24mx.co.uk/product/prox-rear-brake-pads_pid-PM-0017626,pending,brake_pads,Motocross Parts > Brakes > Brake Pads > ProX Rear Brake Pads
+24mx,https://www.24mx.co.uk/product/prox-front-brake-pads_pid-PM-0017625,pending,brake_pads,Motocross Parts > Brakes > Brake Pads > ProX Front Brake Pads
+24mx,https://www.24mx.co.uk/product/proworks-sinter-offroad-front-brake-pads_pid-PM-4976285,pending,brake_pads,Motocross Parts > Brakes > Brake Pads > Proworks Sinter Offroad Front Brake Pads
+24mx,https://www.24mx.co.uk/product/moto-master-brake-pads-rear_pid-PM-0057322,pending,brake_pads,Motocross Parts > Brakes > Brake Pads > Moto-Master Brake Pads Rear
+24mx,https://www.24mx.co.uk/product/braking-heavy-duty-rear-brake-pads_pid-PM-0017335,pending,brake_pads,Motocross Parts > Brakes > Brake Pads > BRAKING Heavy Duty Rear Brake Pads
+24mx,https://www.24mx.co.uk/product/proworks-fluid-rear-brake-disc_pid-PM-4976078,pending,brake_pads,Motocross Parts > Brakes > Brake Rotors > Proworks Fluid Rear Brake Disc
+24mx,https://www.24mx.co.uk/product/twenty-rear-brake-disc-bolt-kit_pid-PM-0021242,pending,brake_pads,Motocross Parts > Brakes > Brake Accessories > Twenty Rear Brake Disc Bolt-Kit
+24mx,https://www.24mx.co.uk/product/prox-front-brake-disc_pid-PM-0069618,pending,brake_pads,Motocross Parts > Brakes > Brake Rotors > ProX Front Brake Disc
+24mx,https://www.24mx.co.uk/product/proworks-fluid-front-brake-disc_pid-PM-4976077,pending,brake_pads,Motocross Parts > Brakes > Brake Rotors > Proworks Fluid Front Brake Disc
+24mx,https://www.24mx.co.uk/product/raven-airborne-evo-mx-helmet-black-white-edge-mx-goggle_pid-PP-5400799,pending,helmets,Helmets > Motocross Helmets > Raven Airborne Evo MX Helmet Black-White + Edge MX Goggle
+24mx,https://www.24mx.co.uk/product/raven-airborne-evo-mx-helmet-black-orange-edge-mx-goggle_pid-PP-5400798,pending,helmets,Helmets > Motocross Helmets > Raven Airborne Evo MX Helmet Black-Orange + Edge MX Goggle
+24mx,https://www.24mx.co.uk/product/24mx-xl-roll-off-goggle-case_pid-PM-0046425,pending,helmets,Accessories > Bags & Backpacks > Helmet & Goggle bags > 24MX XL Roll-Off Goggle Case
+24mx,https://www.24mx.co.uk/product/raven-airborne-evo-mx-helmet_pid-PM-4961082,pending,helmets,Helmets > Motocross Helmets > Raven Airborne Evo MX Helmet
+24mx,https://www.24mx.co.uk/product/24mx-goggle-case_pid-PM-0041901,pending,helmets,Accessories > Bags & Backpacks > Helmet & Goggle bags > 24MX Goggle Case
+24mx,https://www.24mx.co.uk/product/raven-airborne-evo-mx-helmet_pid-PM-4961084,pending,helmets,Helmets > Motocross Helmets > Raven Airborne Evo MX Helmet
+24mx,https://www.24mx.co.uk/product/raven-airborne-evo-mx-helmet-matte-black-yellow-edge-mx-goggle_pid-PP-5400797,pending,helmets,Helmets > Motocross Helmets > Raven Airborne Evo MX Helmet Matte Black-Yellow + Edge MX Goggle
+24mx,https://www.24mx.co.uk/product/proworks-helmet-hanger_pid-PM-4929370,pending,helmets,Accessories > Paddock & Garage > Other Garage Accessories > Proworks Helmet Hanger
+24mx,https://www.24mx.co.uk/product/raven-airborne-evo-mx-helmet_pid-PM-4961085,pending,helmets,Helmets > Motocross Helmets > Raven Airborne Evo MX Helmet
+24mx,https://www.24mx.co.uk/product/raven-airborne-evo-mx-helmet-matte-black-yellow-edge-mx-goggle_pid-PP-4987185,pending,helmets,Helmets > Motocross Helmets > Raven Airborne Evo MX Helmet Matte Black-Yellow + Edge MX Goggle

@@ -1,0 +1,58 @@
+categories:
+  helmets:
+    keywords:
+      - "helmet"
+      - "helmets"
+      - "casque" 
+      - "kask"
+    limit: 10
+    
+  tires:
+    keywords:
+      - "tire"
+      - "tyre"
+      - "pneu"
+      - "lastik"
+    limit: 10
+    
+  oils:
+    keywords:
+      - "oil"
+      - "huile"
+      - "yag"
+      - "motor oil"
+      - "engine oil"
+    limit: 10
+    
+  brake_pads:
+    keywords:
+      - "brake pad"
+      - "plaquette"
+      - "fren balata"
+      - "brake disc"
+    limit: 10
+    
+  chains:
+    keywords:
+      - "chain"
+      - "chaine"
+      - "zincir"
+      - "drive chain"
+    limit: 10
+    
+  filters:
+    keywords:
+      - "filter"
+      - "filtre"
+      - "air filter"
+      - "oil filter"
+    limit: 10
+
+sites:
+  24mx:
+    xml_file: "data/xml/24mx_sitemap.xml"
+    base_url: "https://www.24mx.co.uk"
+    
+  xlmoto:
+    xml_file: "data/xml/xlmoto_sitemap.xml" 
+    base_url: "https://www.xlmoto.co.uk"

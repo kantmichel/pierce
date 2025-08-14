@@ -50,6 +50,9 @@ dev = [
 [project.scripts]
 moto-compare = "src.main:main"
 
+[tool.hatch.build.targets.wheel]
+packages = ["src"]
+
 [tool.ruff]
 line-length = 88
 target-version = "py311"

@@ -1,16 +1,22 @@
-# Motorcycle Parts Price Comparison Tool
+# Motorcycle Parts Market Analysis Tool
 
-A comprehensive price comparison tool for motorcycle parts between European (24mx.co.uk, xlmoto.co.uk) and Turkish (motomax.com.tr, mototas.com.tr) online retailers with automatic currency conversion.
+This system provides competitive intelligence by comparing product pricing between established European markets (24mx.co.uk, xlmoto.co.uk) and emerging Turkish markets (motomax.com.tr, mototas.com.tr).
 
-## 🏍️ Overview
+## Business Overview
 
-This tool helps motorcycle enthusiasts and retailers identify price differences and potential savings opportunities across different markets by:
+This tool enables strategic market analysis considering expansion into new geographic markets by:
 
-- Extracting product information from EU sites (24mx, xlmoto)
-- Searching for equivalent products on Turkish sites (motomax, mototas)
-- Converting prices between currencies (EUR, GBP ↔ TRY)
-- Generating detailed comparison reports
-- Tracking price changes over time
+- Conducting systematic pricing audits across different markets
+- Identifying market entry opportunities and competitive positioning
+- Analyzing price elasticity and market dynamics across currencies
+- Generating comprehensive market intelligence reports
+- Tracking pricing trends and market movements over time
+
+**Primary Use Cases:**
+- Market entry feasibility analysis
+- Competitive pricing strategy development
+- Cross-border arbitrage opportunity identification
+- Regional market dynamics assessment
 
 ## 🚀 Quick Start
 
