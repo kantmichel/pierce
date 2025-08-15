@@ -35,6 +35,7 @@ dependencies = [
     "lxml>=4.9.0",
     "pandas>=2.1.0",
     "jinja2>=3.1.0",
+    "anthropic>=0.40.0",
 ]
 
 [project.optional-dependencies]
@@ -88,4 +89,8 @@ ignore_missing_imports = true
 
 [[tool.mypy.overrides]]
 module = "duckdb.*"
+ignore_missing_imports = true
+
+[[tool.mypy.overrides]]
+module = "anthropic.*"
 ignore_missing_imports = true

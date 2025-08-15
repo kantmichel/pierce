@@ -8,6 +8,7 @@ from firecrawl import FirecrawlApp
 from src.models.product import Product, ProductStatus, Currency
 from src.utils.logger import get_logger
 from src.utils.config import config
+from src.utils.firecrawl_cache import FirecrawlCache
 
 logger = get_logger(__name__)
 
@@ -45,9 +46,10 @@ class RateLimiter:
 class BaseCrawler(ABC):
     """Abstract base crawler for product data extraction using Firecrawl."""
     
-    def __init__(self, site_name: str, site_config: Dict[str, Any]):
+    def __init__(self, site_name: str, site_config: Dict[str, Any], use_cache: bool = True):
         self.site_name = site_name
         self.site_config = site_config
+        self.use_cache = use_cache
         self.base_url = site_config.get('base_url', '')
         self.currency = Currency(site_config.get('currency', 'EUR'))
         
@@ -61,6 +63,13 @@ class BaseCrawler(ABC):
         # Firecrawl configuration
         self.max_retries = 3
         self.firecrawl_app: Optional[FirecrawlApp] = None
+        
+        # Initialize caching
+        if self.use_cache:
+            self.cache = FirecrawlCache()
+            logger.debug(f"Initialized Firecrawl cache for {self.site_name}")
+        else:
+            self.cache = None
         
         # Initialize Firecrawl
         self._initialize_firecrawl()
@@ -78,7 +87,14 @@ class BaseCrawler(ABC):
             raise
     
     async def _scrape_with_firecrawl(self, url: str) -> Dict[str, Any]:
-        """Scrape URL using Firecrawl with rate limiting and retries."""
+        """Scrape URL using Firecrawl with caching, rate limiting and retries."""
+        
+        # Check cache first
+        if self.cache:
+            cached_result = self.cache.get(url)
+            if cached_result:
+                return cached_result
+        
         await self.rate_limiter.wait_if_needed()
         
         last_exception = None
@@ -97,7 +113,7 @@ class BaseCrawler(ABC):
                 if result and hasattr(result, 'success') and result.success:
                     logger.debug(f"Successfully scraped {url}")
                     # Convert ScrapeResponse to dict format for consistency
-                    return {
+                    firecrawl_result = {
                         'success': result.success,
                         'data': {
                             'markdown': getattr(result, 'markdown', ''),
@@ -106,6 +122,12 @@ class BaseCrawler(ABC):
                             'links': getattr(result, 'links', []),
                         }
                     }
+                    
+                    # Cache the successful result
+                    if self.cache:
+                        self.cache.set(url, firecrawl_result)
+                    
+                    return firecrawl_result
                 else:
                     error_msg = getattr(result, 'error', 'Unknown Firecrawl error') if result else 'Empty result from Firecrawl'
                     logger.warning(f"Firecrawl scraping failed for {url}: {error_msg}")
